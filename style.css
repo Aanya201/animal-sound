@@ -1,0 +1,38 @@
+body{
+    font-family: 'Roboto Mono', monospace;
+    background: cornflowerblue;
+    background: url("https://my.spline.design/girlflowerscopy-cab89841fea2713cad58a0173d9e16b7/");
+}
+
+.header_div{
+    background: whitesmoke;
+    color: blue;
+}
+
+.header_div p{
+    font-family: cursive;
+    color: brown;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family: monospace;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: darkslategrey;
+    bottom: 0px;
+    width: 100%;
+    font-size: 18px;
+    background-color: aliceblue;
+    line-height: 3px;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151,149,149);
+}
